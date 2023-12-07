@@ -1767,7 +1767,7 @@ GameObject:
   - component: {fileID: 919954700}
   - component: {fileID: 919954699}
   m_Layer: 5
-  m_Name: Max
+  m_Name: Current
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1813,8 +1813,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '1000
-
+  m_text: '1
 
 '
   m_isRightToLeft: 0
@@ -3068,7 +3067,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 133.78, y: 500}
+  m_SizeDelta: {x: 133.78, y: 448.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1720805052
 MonoBehaviour:
@@ -3958,7 +3957,7 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 100
   m_WholeNumbers: 1
-  m_Value: 0
+  m_Value: 1
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
